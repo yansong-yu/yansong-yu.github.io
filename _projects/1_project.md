@@ -4,7 +4,7 @@ title: QuantOm visualization
 description: 4D array visualization via three.js
 importance: 1
 category: science
-redirect: https://www.google.com
+redirect: https://yansong-yu.github.io/GPD-Visualization-Showcase
 related_publications: false
 ---
 

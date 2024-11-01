@@ -5,7 +5,6 @@ description: a bunch of ray tracing toys implemented on Shadertoy.
 importance: 1
 redirect: https://www.shadertoy.com/user/yys_c
 category: fun
-giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
