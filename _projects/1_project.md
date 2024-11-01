@@ -5,6 +5,7 @@ description: 4D array visualization via three.js
 importance: 1
 category: science
 redirect: https://yansong-yu.github.io/GPD-Visualization-Showcase
+img: assets/img/GPD.png
 related_publications: false
 ---
 

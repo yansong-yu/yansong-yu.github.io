@@ -4,6 +4,7 @@ title: Ray tracing via WebGL
 description: a bunch of ray tracing toys implemented on Shadertoy.
 importance: 1
 redirect: https://www.shadertoy.com/user/yys_c
+img: /assets/img/shadertoy.png
 category: fun
 ---
 
