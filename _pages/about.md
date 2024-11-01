@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
  
 Hi there, glad you could drop in! 👋
 
-I am a first-year Ph.D. student at <a href="https://www.osu.edu/">The Ohio State University</a>, working under the guidance of Professor <a href="https://hguo.github.io">Hanqi Guo</a>. 
+I am Yansong Yu (余彦松), a first-year Ph.D. student at <a href="https://www.osu.edu/">The Ohio State University</a>, working under the guidance of Professor <a href="https://hguo.github.io">Hanqi Guo</a>. 
 
 My research focuses on unraveling complex topological structures within diverse data representations, with a particular interest in the intersections of topology, computer graphics, and artificial intelligence.
 
